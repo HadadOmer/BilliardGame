@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3764701475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9de1ce965b19d4b425542f42c4f77db8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07353491aca6e6a29636b555171f2e48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Ball13.prefab
+- Assets/Prefabs/WhiteBall.prefab
+- Assets/Prefabs/Ball4.prefab
+- Assets/Prefabs/Ball11.prefab
+- Assets/Prefabs/Ball5.prefab
+- Assets/Prefabs/Ball9.prefab
+- Assets/Prefabs/Ball14.prefab
+- Assets/Prefabs/Ball7.prefab
+- Assets/Prefabs/Ball6.prefab
+- Assets/Prefabs/Ball12.prefab
+- Assets/Prefabs/Ball3.prefab
+- Assets/Prefabs/Ball8.prefab
+- Assets/Prefabs/Ball1.prefab
+- Assets/Prefabs/Ball10.prefab
+- Assets/Prefabs/Ball15.prefab
+- Assets/Prefabs/Ball2.prefab
+Dependencies: []
